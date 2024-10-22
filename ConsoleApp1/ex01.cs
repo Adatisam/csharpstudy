@@ -1,6 +1,6 @@
 ﻿using System;
 
-class teste {
+/*class Teste {
     static void Main() {
         // comando de triângulo retangulo
         int i;
@@ -37,4 +37,4 @@ class teste {
         System.Console.WriteLine("FIM DO PROGRAMA.");
     }
     
-}
+}*/

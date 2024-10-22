@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Calculos {
+/*class Calculos {
     public int v1;
     public int v2;
     
@@ -17,4 +17,4 @@ class ex2{
         Calculos c=new Calculos(10,23);
         System.Console.WriteLine(c.Somar());
     }
-}
+}*/

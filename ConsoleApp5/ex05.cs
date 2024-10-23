@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class Jogador {
+/*public class Jogador {
     public int energia;
     public bool vivo;
     public string nome;
@@ -44,4 +44,4 @@ class ex05 {
         j3.info();
         j4.info();
     }
-}
+}*/

@@ -1,6 +1,6 @@
 ﻿using System;
 
-class ex3 {
+/*class ex3 {
 
     static void Main(string[] args)
     {
@@ -52,4 +52,4 @@ class ex3 {
         }
         
     }
-}
+}*/

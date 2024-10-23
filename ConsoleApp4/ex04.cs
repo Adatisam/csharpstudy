@@ -1,6 +1,6 @@
 ﻿using System;
 
-class teste {
+/*class teste {
     static void Main(string[] args)
     {
         int nota1, nota2, nota3, media;
@@ -21,4 +21,4 @@ class teste {
             System.Console.WriteLine("Reprovado.");
         }
     }
-}
+}*/

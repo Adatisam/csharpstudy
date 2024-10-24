@@ -1,6 +1,6 @@
 using System;
 
-class Veiculo {//Classe Base
+/*class Veiculo {//Classe Base
     private int rodas;
     public int velMax;
     private bool ligado;
@@ -78,4 +78,4 @@ class Go{
         
         
     }
-}
+}*/

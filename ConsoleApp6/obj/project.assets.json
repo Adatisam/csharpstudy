@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "/Users/matheus/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\csharpstudy\\ConsoleApp6\\ConsoleApp6.csproj",
+      "projectUniqueName": "/Users/matheus/Documents/csharpstudy/ConsoleApp6/ConsoleApp6.csproj",
       "projectName": "ConsoleApp6",
-      "projectPath": "C:\\Users\\User\\Documents\\csharpstudy\\ConsoleApp6\\ConsoleApp6.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\csharpstudy\\ConsoleApp6\\obj\\",
+      "projectPath": "/Users/matheus/Documents/csharpstudy/ConsoleApp6/ConsoleApp6.csproj",
+      "packagesPath": "/Users/matheus/.nuget/packages/",
+      "outputPath": "/Users/matheus/Documents/csharpstudy/ConsoleApp6/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/matheus/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

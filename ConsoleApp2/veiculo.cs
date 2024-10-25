@@ -1,6 +1,6 @@
 using System;
 
-/*class Veiculo {//Classe Base
+class Veiculo {//Classe Base
     private int rodas;
     public int velMax;
     private bool ligado;
@@ -56,7 +56,7 @@ class CarroCombate:Carro {
 }
 
 class Go{
-    static void Main(string[] args) {
+    static void Main1(string[] args) {
         Carro c1=new Carro("Civic", "Azul");
         CarroCombate c2=new CarroCombate();
 
@@ -78,4 +78,4 @@ class Go{
         
         
     }
-}*/
+}

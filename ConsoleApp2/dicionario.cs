@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 class Aula55{
-    static void Main(string[] args) {
+    static void Main1(string[] args) {
         Dictionary <int,string> veiculos = new Dictionary<int, string>();
         //topo:
         Random num=new Random();

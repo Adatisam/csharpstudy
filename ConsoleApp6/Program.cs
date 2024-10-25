@@ -1,6 +1,6 @@
 ﻿using System;
 
-/*class Galinha {
+class Galinha {
     public string nomeGalinha;
     private int numOvo;
     public Galinha(string nomeGalinha) {
@@ -22,7 +22,7 @@ class Ovo {
     }
 }
 class Ref{
-    static void Main() {
+    static void Main1() {
         Galinha g1=new Galinha("Rinha de Galo");
         Galinha g2=new Galinha("Frangolino");
         Galinha g3=new Galinha("Joao Frango");
@@ -32,4 +32,4 @@ class Ref{
         g1.botar(); 
         g1.botar(); 
     }
-}*/
+}

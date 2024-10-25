@@ -1,8 +1,8 @@
 ﻿using System;
 
-/*class ex3 {
+class ex3 {
 
-    static void Main(string[] args)
+    static void Main1(string[] args)
     {
         int tempo = 0;
         string escolha;
@@ -52,4 +52,4 @@
         }
         
     }
-}*/
+}

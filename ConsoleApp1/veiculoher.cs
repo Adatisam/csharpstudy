@@ -1,5 +1,5 @@
 using System;
-/*namespace Cala1{
+namespace Cala1{
     class Area{
     public static float Quad(float bas, float alt){
         if (bas==0||alt==0) {
@@ -11,7 +11,7 @@ using System;
 
 }
 class Ex01{
-    static void Main(string[] args) {
+    static void Main1(string[] args) {
         float area=0;
 
         try{
@@ -24,4 +24,4 @@ class Ex01{
         }
         
     }
-}*/
+}

@@ -1,7 +1,7 @@
 ﻿using System;
 
-/*class teste {
-    static void Main(string[] args)
+class teste {
+    static void Main1(string[] args)
     {
         int nota1, nota2, nota3, media;
         System.Console.Write("Digite a nota do 1˚ trimestre: ");
@@ -21,4 +21,4 @@
             System.Console.WriteLine("Reprovado.");
         }
     }
-}*/
+}

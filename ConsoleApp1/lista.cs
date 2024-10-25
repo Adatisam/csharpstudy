@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 
 class Aula57{
-    static void Main() {
+    static void Main2() {
         List<string>carros= new List<string>();
         //List<string>carros2= new List<string>();
         string[] carros2 = new string[10];
@@ -23,6 +23,7 @@ class Aula57{
         }
 
         carros.CopyTo(carros2,2);
+        carros.Insert(1,"Cruze");
 
         foreach (string i in carros) {
             System.Console.WriteLine($"Carro registrado: {i}");

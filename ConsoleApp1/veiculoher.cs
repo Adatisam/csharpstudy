@@ -1,5 +1,5 @@
 using System;
-namespace Cala1{
+/*namespace Cala1{
     class Area{
     public static float Quad(float bas, float alt){
         if (bas==0||alt==0) {
@@ -24,4 +24,4 @@ class Ex01{
         }
         
     }
-}
+}*/

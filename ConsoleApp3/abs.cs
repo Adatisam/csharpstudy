@@ -1,5 +1,5 @@
 using System;
-abstract class Veiculo{//classe base  abstrata
+/*abstract class Veiculo{//classe base  abstrata
     protected int velMax;
     protected int velAtual; 
     protected bool ligado;
@@ -34,4 +34,4 @@ class Aula39{
         System.Console.WriteLine(c1.getVelAtual());
 
     }
-}
+}*/

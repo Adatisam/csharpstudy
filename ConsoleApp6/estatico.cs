@@ -8,7 +8,7 @@ class Mat {
 }
 
 class Aula49 {
-    static void Main() {
+    static void Main1() {
         double vpi=Mat.pi;
         int num=10;
         

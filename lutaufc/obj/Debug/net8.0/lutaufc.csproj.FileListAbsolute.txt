@@ -1,0 +1,15 @@
+C:\Users\User\Documents\csharpstudy\lutaufc\obj\Debug\net8.0\lutaufc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\csharpstudy\lutaufc\obj\Debug\net8.0\lutaufc.AssemblyInfoInputs.cache
+C:\Users\User\Documents\csharpstudy\lutaufc\obj\Debug\net8.0\lutaufc.AssemblyInfo.cs
+C:\Users\User\Documents\csharpstudy\lutaufc\obj\Debug\net8.0\lutaufc.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\csharpstudy\lutaufc\obj\Debug\net8.0\lutaufc.sourcelink.json
+C:\Users\User\Documents\csharpstudy\lutaufc\bin\Debug\net8.0\lutaufc.exe
+C:\Users\User\Documents\csharpstudy\lutaufc\bin\Debug\net8.0\lutaufc.deps.json
+C:\Users\User\Documents\csharpstudy\lutaufc\bin\Debug\net8.0\lutaufc.runtimeconfig.json
+C:\Users\User\Documents\csharpstudy\lutaufc\bin\Debug\net8.0\lutaufc.dll
+C:\Users\User\Documents\csharpstudy\lutaufc\bin\Debug\net8.0\lutaufc.pdb
+C:\Users\User\Documents\csharpstudy\lutaufc\obj\Debug\net8.0\lutaufc.dll
+C:\Users\User\Documents\csharpstudy\lutaufc\obj\Debug\net8.0\refint\lutaufc.dll
+C:\Users\User\Documents\csharpstudy\lutaufc\obj\Debug\net8.0\lutaufc.pdb
+C:\Users\User\Documents\csharpstudy\lutaufc\obj\Debug\net8.0\lutaufc.genruntimeconfig.cache
+C:\Users\User\Documents\csharpstudy\lutaufc\obj\Debug\net8.0\ref\lutaufc.dll

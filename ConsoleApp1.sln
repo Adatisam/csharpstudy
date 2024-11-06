@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp6", "ConsoleApp6\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "financiamento", "financiamento\financiamento.csproj", "{19928344-FE5D-4328-AA37-D2FB378B902C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lutaufc", "lutaufc\lutaufc.csproj", "{B2D6F98F-D6E6-412A-B858-E8E6A908F8F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{19928344-FE5D-4328-AA37-D2FB378B902C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19928344-FE5D-4328-AA37-D2FB378B902C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19928344-FE5D-4328-AA37-D2FB378B902C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2D6F98F-D6E6-412A-B858-E8E6A908F8F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D6F98F-D6E6-412A-B858-E8E6A908F8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D6F98F-D6E6-412A-B858-E8E6A908F8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D6F98F-D6E6-412A-B858-E8E6A908F8F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

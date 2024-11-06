@@ -17,7 +17,7 @@ struct Car {
 }
 
 class Novo{
-    static void Main() {
+    static void Main1() {
         int[] num;
         
         Car c1=new Car("Ford", "Mawerick", "preta");

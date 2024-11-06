@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/matheus/Documents/csharpstudy/ConsoleApp2/ConsoleApp2.csproj": {}
+    "/Users/matheus/Documents/csharpstudy/financiamento/financiamento.csproj": {}
   },
   "projects": {
-    "/Users/matheus/Documents/csharpstudy/ConsoleApp2/ConsoleApp2.csproj": {
+    "/Users/matheus/Documents/csharpstudy/financiamento/financiamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/matheus/Documents/csharpstudy/ConsoleApp2/ConsoleApp2.csproj",
-        "projectName": "ConsoleApp2",
-        "projectPath": "/Users/matheus/Documents/csharpstudy/ConsoleApp2/ConsoleApp2.csproj",
+        "projectUniqueName": "/Users/matheus/Documents/csharpstudy/financiamento/financiamento.csproj",
+        "projectName": "financiamento",
+        "projectPath": "/Users/matheus/Documents/csharpstudy/financiamento/financiamento.csproj",
         "packagesPath": "/Users/matheus/.nuget/packages/",
-        "outputPath": "/Users/matheus/Documents/csharpstudy/ConsoleApp2/obj/",
+        "outputPath": "/Users/matheus/Documents/csharpstudy/financiamento/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/matheus/.nuget/NuGet/NuGet.Config"

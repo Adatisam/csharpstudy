@@ -91,14 +91,13 @@ namespace LutadorApp{
         }
 
         public void apresentar() {
-            System.Console.WriteLine("-------------------------------");
             System.Console.WriteLine("CHEGOU A HORA! O lutador" + getNome());
             System.Console.WriteLine("veio diretamente de " + getNac() + ", com " + getAlt() + " metros de altura, pesando " + getPeso() + "Kg,");
-            System.Console.WriteLine(getVitorias() + " Vitórias, " + getDerrotas() + " Derrotas, e " + getEmpates() + " Empates.");
+            System.Console.WriteLine(getVitorias() + " Vitórias, " + getDerrotas() + " Derrotas, e " + getEmpates() + " Empates.\n");
         }
         public void status() {
             System.Console.WriteLine(getNome() + " é um peso " + getCategoria() + " e já ganhou " + getVitorias() + " vezes, perdeu "+ getDerrotas() + " e empatou "+ getEmpates() + "!");
-            System.Console.WriteLine("-------------------------------");
+            System.Console.WriteLine("\n");
         }
         public void ganharLuta() {
             setVitorias(getVitorias()+1);
